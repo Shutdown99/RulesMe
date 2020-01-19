@@ -1,0 +1,14 @@
+# > Facebook
+DOMAIN-SUFFIX,facebook.com,Facebook
+DOMAIN-SUFFIX,apple.co,Facebook
+DOMAIN-SUFFIX,apple.com,Facebook
+DOMAIN-SUFFIX,apple-cloudkit.com,Facebook
+DOMAIN-SUFFIX,appstore.com,Facebook
+DOMAIN-SUFFIX,cdn-apple.com,Facebook
+DOMAIN-SUFFIX,crashlytics.com,Facebook
+DOMAIN-SUFFIX,icloud.com,Facebook
+DOMAIN-SUFFIX,icloud-content.com,Facebook
+DOMAIN-SUFFIX,me.com,Facebook
+DOMAIN-SUFFIX,mzstatic.com,Facebook
+DOMAIN,www-cdn.icloud.com.akadns.net,Facebook
+IP-CIDR,17.0.0.0/8,Facebook
